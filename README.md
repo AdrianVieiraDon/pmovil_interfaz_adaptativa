@@ -1,7 +1,6 @@
 # domicilios_sensores_app (RapidoYa)
 
-Versión temática de domicilios (estilo Rappi) del proyecto adaptativo original,
-manteniendo el mismo patrón de layout (compact/medium/expanded) y sensores reales.
+Versión temática de domicilios (estilo Rappi).
 
 ## Pantallas
 
